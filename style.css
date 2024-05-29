@@ -283,12 +283,12 @@ font-size: 20px;
     color: white;
 }
    /* this is card sec */
-.center{
+ .center{ 
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-}
+} 
 
 .container4{
    margin-top: 90px;
@@ -299,7 +299,7 @@ font-size: 20px;
      /* height: 300px;  */
     width: 150px;
     margin: 0 10px;
-    margin-left: 200px;
+    margin-left: 160px;
     border-radius: 10px;
     box-shadow: 0 0 20px 2px rgb(0, 0, 0, .1);
     transition: 1s;
@@ -321,7 +321,7 @@ font-size: 20px;
   border: 1px solid ;
  border-color: rgba(169, 169, 169, 0.247) ;
  border-top-color: rgba(169, 169, 169, 0.13);
-  margin-left: 180px;
+  margin-left: 140px;
   margin-top: -28px;
 }
 .box3p{ 
